@@ -4,7 +4,7 @@
 
 Gracias por visitar mi perfil de Github. 
 
-Soy **especialista SEO desde hace más de 6 años**, durante los cuales he planteado infinidad de estrategias, realizado optimizaciones e implementado mejoras para posicionar las páginas webs de mis clientes lo más alto posible en los buscadores.
+Soy **especialista SEO desde hace más de 5 años**, durante los cuales he planteado infinidad de estrategias, realizado optimizaciones e implementado mejoras para posicionar las páginas webs de mis clientes lo más alto posible en los buscadores.
 
 Durante esa búsqueda de mejora contínua, me di cuenta de que uno de mis puntos flacos era el SEO técnico. Rápidamente, me planteé qué sería necesario para mejorar en este tipo de implementaciones, y no tardé en llegar a la conclusión final: **necesitaba aprender desarrollo web** 
 
